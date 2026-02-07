@@ -36,6 +36,7 @@
   "author": "Anurag Hazra",
   "license": "MIT",
   "devDependencies": {
+    "@flydotio/dockerfile": "^0.7.10",
     "@actions/core": "^2.0.1",
     "@actions/github": "^6.0.1",
     "@eslint/eslintrc": "^3.3.3",
